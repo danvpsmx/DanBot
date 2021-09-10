@@ -127,7 +127,7 @@ cd usr
 cd etc
 rm -r bash.bashrc
 cd
-cd NyanBot
+cd DanBot
 mv bash.bashrc $HOME/../usr/etc
 echo -e '\033[0m\033[1;33m
    ____                         _                                        
